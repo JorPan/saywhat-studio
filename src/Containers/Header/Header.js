@@ -9,7 +9,7 @@ export default function Header() {
           SayWhat
         </Link>
       </div>
-      <div className="header-link-section">
+      <div className="header-links">
         <Link className="header-link" to="/music">
           Music
         </Link>
