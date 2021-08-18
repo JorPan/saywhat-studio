@@ -1,9 +1,10 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import "./Header.css";
 
 export default function Header() {
   return (
-    <header>
+    <header className="header">
       <div className="logo-section">
         <Link className="logo" to="/">
           SayWhat
