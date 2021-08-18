@@ -6,4 +6,15 @@
   height: 5vw;
   background-color: black;
   display: flex;
+  justify-content: space-between;
+}
+
+.logo-section {
+  margin-left: 3em;
+}
+
+.header-links {
+  width: 50vw;
+  display: flex;
+  justify-content: space-around;
 }
