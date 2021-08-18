@@ -16,6 +16,19 @@
   margin-left: 3em;
 }
 
+.logo {
+  color: white;
+  font-size: 4rem;
+  font-weight: 500;
+  font-style: italic;
+  display: flex;
+  text-decoration: none;
+  font-family: "Lobster", cursive;
+  margin-left: -20px;
+  margin-bottom: -3rem;
+  text-shadow: 2px 2px #2100b6;
+}
+
 .header-links {
   width: 50vw;
   display: flex;
