@@ -4,7 +4,8 @@
   left: 0;
   width: 100vw;
   height: 5vw;
-  background-color: black;
+  background-image: url(https://media.giphy.com/media/CTxhjh3qHtW1gL8OtF/giphy.gif);
+  background-position: 50%;
   display: flex;
   justify-content: space-between;
 }
