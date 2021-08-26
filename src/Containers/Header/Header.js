@@ -7,7 +7,7 @@ export default function Header() {
     <header className="header">
       <div className="logo-section">
         <Link className="logo" to="/">
-          SayWhat
+          SayWhat?!
         </Link>
       </div>
       <div className="header-links">

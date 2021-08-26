@@ -1,11 +1,19 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
+import "./Home.css";
 
 export default function Home() {
+  //   const [photos, setPhotos] = useState([]);
+
+  //   useEffect(() => {
+  //     setPhotos();
+  //   }, []);
+
   return (
     <div>
-      <img />
-      <h3>Saywhat?!</h3>
-      <p>Jordan Panasewicz</p>
+      <p className="bio">
+        Jordan Panasewicz - formerly known as Pandasaywhat?! is the brains
+        behind the sounds and visuals of the SayWhat?! project.
+      </p>
     </div>
   );
 }

@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Andada+Pro&family=Bangers&family=Big+Shoulders+Display:wght@100&family=Cabin+Sketch&family=Caveat&family=Fjalla+One&family=Kumbh+Sans:wght@300&family=Lobster&family=Mallanna&family=Megrim&family=Palette+Mosaic&family=Poiret+One&family=Rajdhani:wght@300&family=Roboto:wght@100;300&family=Sedgwick+Ave&family=Spinnaker&family=Style+Script&family=Syncopate&family=Wendy+One&display=swap");
+
+/* font-family: 'Andada Pro', serif;
+font-family: 'Bangers', cursive;
+font-family: 'Big Shoulders Display', cursive;
+font-family: 'Cabin Sketch', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Kumbh Sans', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Mallanna', sans-serif;
+font-family: 'Megrim', cursive;
+font-family: 'Palette Mosaic', cursive;
+font-family: 'Poiret One', cursive;
+font-family: 'Rajdhani', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Sedgwick Ave', cursive;
+font-family: 'Spinnaker', sans-serif;
+font-family: 'Style Script', cursive;
+font-family: 'Syncopate', sans-serif;
+font-family: 'Wendy One', sans-serif; */
+
+.bio {
+  margin-top: 8em;
+  font-family: "Spinnaker", sans-serif;
+}
