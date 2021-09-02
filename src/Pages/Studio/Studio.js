@@ -1,5 +1,5 @@
 import React from "react";
 
-export default function Tools() {
+export default function Studio() {
   return <div></div>;
 }

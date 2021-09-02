@@ -6,7 +6,7 @@ import Home from "../Pages/Home/Home";
 import Music from "../Pages/Music/Music";
 import Media from "../Pages/Media/Media";
 import Merch from "../Pages/Merch/Merch";
-import Tools from "../Pages/Tools/Tools";
+import Studio from "../Pages/Studio/Studio";
 
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
         <Route path="/music" component={Music} />
         <Route path="/media" component={Media} />
         <Route path="/merch" component={Merch} />
-        <Route path="/tools" component={Tools} />
+        <Route path="/tools" component={Studio} />
         <Redirect to="/" />
       </Switch>
       <Footer />
