@@ -121,12 +121,13 @@ font-family: 'Wendy One', sans-serif; */
   width: 30vw;
   animation-duration: 2s;
   animation-name: bio1-photo-load;
+  border: 5px solid white;
 }
 
 .bio1-caption {
   color: white;
   font-family: "Spinnaker", sans-serif;
-  animation-duration: 3s;
+  animation-duration: 2s;
   animation-name: bio1-caption-load;
   max-height: 24px;
   margin-bottom: 30px;
