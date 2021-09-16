@@ -14,11 +14,18 @@ export default function Home() {
         <div class="biodot biodot3" onClick={() => setBioPhase(Bio[2])}></div>
         <div class="biodot biodot4" onClick={() => setBioPhase(Bio[3])}></div>
         <div class="biodot biodot5" onClick={() => setBioPhase(Bio[4])}></div>
-        <div class="biodot biodot5" onClick={() => setBioPhase(Bio[5])}></div>
+        <div class="biodot biodot6" onClick={() => setBioPhase(Bio[5])}></div>
       </div>
       <section className={bioPhase.id}>
-        <p className="bio">{bioPhase.caption}</p>
-        <img className={bioPhase.alt} src={bioPhase.img} alt={bioPhase.alt} />
+        <div className={`${bioPhase.id}-caption`}>
+          <p>{bioPhase.caption}</p>
+        </div>
+
+        <img
+          className={`${bioPhase.id}-photo`}
+          src={bioPhase.img}
+          alt={bioPhase.alt}
+        />
       </section>
     </div>
   );

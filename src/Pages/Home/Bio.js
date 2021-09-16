@@ -4,7 +4,7 @@ const Bio = [
     img: "/PSW-Back-to-Infinity.jpg",
     alt: "back-to-infinity",
     caption:
-      "Jordan Panasewicz - also known as Pandasaywhat?! is the brains behind the sounds and visuals of the SayWhat?! project.",
+      "Jordan Panasewicz - also known as Pandasaywhat?! - is the brains behind the sounds and visuals of the SayWhat?! project.",
   },
   {
     id: "bio2",
