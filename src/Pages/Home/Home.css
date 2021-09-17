@@ -156,3 +156,51 @@ font-family: 'Wendy One', sans-serif; */
     margin-right: 0;
   }
 }
+
+.bio2 {
+  position: absolute;
+  width: 60vw;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -20vh;
+}
+
+.bio2-caption {
+  color: white;
+  font-family: "Spinnaker", sans-serif;
+  animation-duration: 2s;
+  animation-name: bio2-caption-load;
+  max-height: 24px;
+  flex-wrap: nowrap;
+  width: 100vw;
+}
+
+.bio2-photo {
+  width: 40vw;
+  animation-duration: 2s;
+  animation-name: bio2-photo-load;
+  border: 5px solid white;
+}
+
+@keyframes bio2-caption-load {
+  from {
+    opacity: 0;
+    margin-bottom: 100vw;
+  }
+  to {
+    opacity: 1;
+    margin-bottom: 0;
+  }
+}
+@keyframes bio2-photo-load {
+  from {
+    opacity: 0;
+    margin-top: 100vw;
+  }
+  to {
+    opacity: 1;
+    margin-top: 0;
+  }
+}
