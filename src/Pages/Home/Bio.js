@@ -11,7 +11,7 @@ const Bio = [
     img: "/PSW-Horn-Pub.jpg",
     alt: "horn-pub",
     caption:
-      "SayWhat?! music is heavily inspired by jazz, soul, blues, and hip hop, with the obvious touch of bass & EDM.",
+      "SayWhat?! music is heavily inspired by jazz, soul, blues, and hip hop, with the obvious touch of bass & EDM, which Spotify now calls 'Vapor Twitch'.",
   },
   {
     id: "bio3",
