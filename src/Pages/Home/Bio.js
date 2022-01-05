@@ -38,7 +38,7 @@ const Bio = [
     img: "/PSW-Live-Band.jpg",
     alt: "live-band",
     caption:
-      "Jordan has also collaborated with many other Denver musicians on songs and for live band performances, including Melody Lines, Collidoscope, and Em Possible.",
+      "Jordan has also collaborated with many other Denver musicians on songs and for live band performances, including Collidoscope, Melody Lines, Spectacle and Em Possible.",
   },
   {
     id: "home",
