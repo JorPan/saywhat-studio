@@ -47,7 +47,8 @@ font-family: 'Wendy One', sans-serif; */
 
 .images {
   margin-top: -132px;
-  width: 30vw;
+  width: 45vw;
+  height: 55vh;
 }
 
 .carousel {
@@ -58,6 +59,7 @@ font-family: 'Wendy One', sans-serif; */
 .arrow {
   color: white;
   font-size: 64px;
+  margin-top: 64px;
 }
 
 .arrow :hover {
