@@ -42,7 +42,7 @@ const Bio = [
   },
   {
     id: "home",
-    img: "",
+    img: "/PSW-Live-Band.jpg",
     alt: "",
     caption:
       "Welcome to SayWhat Studio - the official webpage of the SayWhat?! sound and visual project.",
