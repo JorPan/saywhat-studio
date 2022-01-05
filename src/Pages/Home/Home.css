@@ -115,6 +115,8 @@ font-family: 'Wendy One', sans-serif; */
   align-items: center;
   flex-direction: column;
   margin-top: -16vh;
+  margin-left: 48px;
+  margin-right: 48px;
 }
 
 .bio1-photo {
@@ -165,6 +167,8 @@ font-family: 'Wendy One', sans-serif; */
   justify-content: center;
   align-items: center;
   margin-top: -20vh;
+  margin-left: 48px;
+  margin-right: 48px;
 }
 
 .bio2-caption {
@@ -203,4 +207,120 @@ font-family: 'Wendy One', sans-serif; */
     opacity: 1;
     margin-top: 0;
   }
+}
+
+.bio3 {
+  position: absolute;
+  width: 60vw;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -20vh;
+  margin-left: 48px;
+  margin-right: 48px;
+}
+
+.bio3-caption {
+  color: white;
+  font-family: "Spinnaker", sans-serif;
+  animation-duration: 2s;
+  animation-name: bio1-caption-load;
+  max-height: 24px;
+  flex-wrap: nowrap;
+  width: 100vw;
+}
+
+.bio3-photo {
+  width: 40vw;
+  animation-duration: 2s;
+  animation-name: bio1-photo-load;
+  border: 5px solid white;
+}
+
+.bio4 {
+  position: absolute;
+  width: 60vw;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -20vh;
+  margin-left: 48px;
+  margin-right: 48px;
+}
+
+.bio4-caption {
+  color: white;
+  font-family: "Spinnaker", sans-serif;
+  animation-duration: 2s;
+  animation-name: bio2-caption-load;
+  max-height: 24px;
+  flex-wrap: nowrap;
+  width: 100vw;
+}
+
+.bio4-photo {
+  width: 40vw;
+  animation-duration: 2s;
+  animation-name: bio2-photo-load;
+  border: 5px solid white;
+}
+
+.bio5 {
+  position: absolute;
+  width: 60vw;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -20vh;
+  margin-left: 48px;
+  margin-right: 48px;
+}
+
+.bio5-caption {
+  color: white;
+  font-family: "Spinnaker", sans-serif;
+  animation-duration: 2s;
+  animation-name: bio1-caption-load;
+  max-height: 24px;
+  flex-wrap: nowrap;
+  width: 100vw;
+}
+
+.bio5-photo {
+  width: 40vw;
+  animation-duration: 2s;
+  animation-name: bio1-photo-load;
+  border: 5px solid white;
+}
+
+.bio6 {
+  position: absolute;
+  width: 60vw;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -20vh;
+  margin-left: 48px;
+  margin-right: 48px;
+}
+
+.bio6-caption {
+  color: white;
+  font-family: "Spinnaker", sans-serif;
+  animation-duration: 2s;
+  animation-name: bio2-caption-load;
+  max-height: 24px;
+  flex-wrap: nowrap;
+  width: 100vw;
+}
+
+.bio6-photo {
+  width: 40vw;
+  animation-duration: 2s;
+  animation-name: bio2-photo-load;
+  border: 5px solid white;
 }
